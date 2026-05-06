@@ -17,3 +17,24 @@ Tiga commit kecil digabungkan menjadi satu commit tunggal: `feat: implementasi m
 
 ## Bukti Proses Rebase:
 ![Proses Rebase](<Screenshot 2026-05-06 213916.png>)
+
+## Tugas 4
+
+# Proyek Praktikum Git Arya Ramadhi
+
+## Deskripsi Project
+Proyek ini adalah tugas praktikum untuk mempelajari alur kerja Git profesional, mulai dari manajemen branch hingga teknik rebase.
+
+## Cara Menjalankan
+1. Buka link berikut: `git clone [https://github.com/aryaramadhi/praktikum-git-565411]`
+
+
+## Dokumentasi Perintah Git
+* `git checkout -b [nama-branch]`: Membuat branch baru dan langsung berpindah ke sana.
+* `git merge [nama-branch]`: Menggabungkan perubahan dari branch lain ke branch aktif.
+* `git pull origin [nama-branch]`: Mengambil dan menggabungkan perubahan terbaru dari GitHub ke laptop.
+* `git rebase -i HEAD~[jumlah]`: Melakukan interactive rebase untuk merapikan riwayat commit (squash).
+* `git push origin [nama-branch] --force`: Memaksa pengiriman commit ke GitHub (digunakan setelah rebase).
+
+## Hasil Tugas
+![Tampilan Web](<Screenshot 2026-05-06 222806.png>)
