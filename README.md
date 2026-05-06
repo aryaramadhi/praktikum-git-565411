@@ -38,3 +38,9 @@ Proyek ini adalah tugas praktikum untuk mempelajari alur kerja Git profesional, 
 
 ## Hasil Tugas
 ![Tampilan Web](<Screenshot 2026-05-06 222806.png>)
+
+### Dokumentasi Perintah Git (Tugas 4 tambahan)
+* `git checkout -b [nama]`: Membuat branch baru dan berpindah ke sana.
+* `git merge [nama]`: Menggabungkan branch.
+* `git rebase -i`: Merapikan riwayat commit (squash).
+* `git push --force`: Mengirim perubahan setelah rebase.
