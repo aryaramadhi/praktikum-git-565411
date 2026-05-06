@@ -1,3 +1,6 @@
+:root { --bg-dark: #333; --text-dark: #fff; }
+.dark-theme { background-color: var(--bg-dark); color: var(--text-dark); }
+body { transition: background 0.3s ease; }
 body {
     background-color: red;
 }
