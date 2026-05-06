@@ -4,3 +4,6 @@ body { transition: background 0.3s ease; }
 body {
     background-color: blue;
 }
+h1 {
+    font-size: 60px;
+}
